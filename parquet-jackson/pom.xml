@@ -27,6 +27,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>parquet-jackson</artifactId>
+  <version>1.18.1-deepbi1</version>
   <packaging>jar</packaging>
 
   <name>Apache Parquet Jackson</name>
